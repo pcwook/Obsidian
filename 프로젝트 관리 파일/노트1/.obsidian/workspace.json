@@ -1,0 +1,150 @@
+{
+  "main": {
+    "id": "25d1e316403450b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ad3662b65cbdeee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e14ae29af82e28c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6f836cd59d6124ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "7482af80544684e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb35f33d0e09fe6b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2a1dc010ad4374e8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "57829754beb0aa1f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "35bc6765c767eef2",
+    "type": "split",
+    "children": [
+      {
+        "id": "9bdfc01fdbbc27cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d30e97ca65fdaf7d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f4fa0218fdcc33d0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eb761f12505d82d9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "3ecb8a943a8f95d3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "7e14ae29af82e28c",
+  "lastOpenFiles": [
+    "app 프로젝트 연습/Activity.md",
+    "app 프로젝트 연습/layout.md",
+    "app 프로젝트 연습/GASNote_APP.md",
+    "노트 파일.canvas",
+    "app 프로젝트 연습",
+    "무제 파일.md",
+    "2023-10-21.md"
+  ]
+}

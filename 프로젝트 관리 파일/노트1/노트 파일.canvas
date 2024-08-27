@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"1ee86ed216e20f8b","type":"file","file":"app 프로젝트 연습/GASNote_APP.md","x":-2100,"y":-1640,"width":320,"height":320},
+		{"id":"d8466ec6023a3e66","x":-1560,"y":-1640,"width":360,"height":320,"type":"file","file":"app 프로젝트 연습/layout.md"},
+		{"id":"2c9a998e63dd3361","x":-2100,"y":-1280,"width":400,"height":400,"type":"file","file":"app 프로젝트 연습/Activity.md"}
+	],
+	"edges":[]
+}

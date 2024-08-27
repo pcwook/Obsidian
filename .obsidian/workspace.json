@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "f19f1a484eb55fb7",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a12c817acdcdff8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2559f83968a76da0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "프로그래밍공부/모두의 깃&깃허브.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e7bf150ceba583af",
+    "type": "split",
+    "children": [
+      {
+        "id": "50ac899b14966c18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f0d5e930c137640",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "20bc9a4afcfcbc24",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8f71b52b6116fab6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 240.5
+  },
+  "right": {
+    "id": "e88abf01ecd6fd51",
+    "type": "split",
+    "children": [
+      {
+        "id": "49a231fc84ef997b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "952bf798ed75dfba",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "프로그래밍공부/모두의 깃&깃허브.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "210e86e50c37458d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "프로그래밍공부/모두의 깃&깃허브.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dabf93a26340c2d1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a570994195dff6c9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "프로그래밍공부/모두의 깃&깃허브.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "workspaces:작업 공간 레이아웃 관리": false,
+      "canvas:새 캔버스 만들기": false
+    }
+  },
+  "active": "2559f83968a76da0",
+  "lastOpenFiles": [
+    "학교 공부 노트/4-1 공부/정보처리기사/정처기 실기 오답 노트.md",
+    "학교 공부 노트/4-1 공부/정보처리기사/1과목 소프트웨어 설계.md",
+    "프로그래밍공부/모두의 깃&깃허브.md",
+    "학교 공부 노트/4-1 공부/정보처리기사/정보처리기사 코딩(흥달쌤).md",
+    "옵시디언 사용법.md",
+    "캔버스 파일/IOT공부 파일.canvas",
+    "프로젝트 관리 파일/그냥 정리 파일.md",
+    "프로그래밍공부",
+    "학교 공부 노트/4-1 공부/정보처리기사/2과목 소프트웨어 개발.md",
+    "계획표 파일/계획표.md",
+    "media/Pasted image 20240711014418.png",
+    "media/Pasted image 20240711014119.png",
+    "media/Pasted image 20240703010806.png",
+    "media/Pasted image 20240703010021.png",
+    "학교 공부 노트/4-1 공부/정보처리기사",
+    "학교 공부 노트/4-1 공부",
+    "무제 파일.canvas",
+    "프로젝트 관리 파일/노트1/app 프로젝트 연습/layout.md",
+    "프로젝트 관리 파일",
+    "프로젝트 관리 파일/노트1/app 프로젝트 연습/Activity.md",
+    "프로젝트 관리 파일/노트1/app 프로젝트 연습/GASNote_APP.md",
+    "학교 공부 노트/3-2학교공부/안드로이드 프로그래밍/안드로이드 기말고사/코틀린/코틀린.md",
+    "무제 파일 1.canvas",
+    "학교 공부 노트/3-2학교공부/IOT 연습장/IOT중간고사/모터드라이브.md",
+    "학교 공부 노트/3-2학교공부/IOT 연습장/IOT중간고사/라인트레이서.md",
+    "학교 공부 노트",
+    "학교 공부 노트/3-2학교공부/IOT 연습장/IOT기말고사/IOT기말고사 범위.md",
+    "학교 공부 노트/3-2학교공부/안드로이드 프로그래밍/안드로이드 중간고사/11장 서비스, 방송 수신자, 콘텐트 제공자.md",
+    "학교 공부 노트/3-2학교공부/안드로이드 프로그래밍/안드로이드 기말고사/그림으로 안드로이드/17장 센서.md",
+    "학교 공부 노트/3-2학교공부/안드로이드 프로그래밍/안드로이드 기말고사/그림으로 안드로이드/16장 멀티미디어.md",
+    "학교 공부 노트/3-2학교공부/안드로이드 프로그래밍/안드로이드 기말고사/그림으로 안드로이드/15장 위치기반앱.md",
+    "media/Pasted image 20231022151546.png",
+    "media/Pasted image 20231022151521.png",
+    "media/Pasted image 20231022001924.png",
+    "계획표 파일",
+    "media/Pasted image 20231213032110.png",
+    "media/Pasted image 20231213031455.png",
+    "media/Pasted image 20231213030158.png",
+    "학교 공부 노트/3-2학교공부/IOT 연습장/IOT 시험 출제.md",
+    "학교 공부 노트/3-2학교공부/IOT 연습장/IOT중간고사/아두이노.md",
+    "학교 공부 노트/3-2학교공부/안드로이드 프로그래밍/안드로이드 기말고사/코틀린",
+    "학교 공부 노트/3-2학교공부/안드로이드 프로그래밍/안드로이드 기말고사/그림으로 안드로이드",
+    "학교 공부 노트/3-2학교공부/안드로이드 프로그래밍/안드로이드 기말고사",
+    "IOT 기말.md",
+    "기말고사 시험범위.md",
+    "학교 공부 노트/3-2학교공부/IOT 연습장/IOT기말고사",
+    "3-2학교공부/IOT 연습장/IOT 기말고사.md",
+    "학교 공부 노트/3-2학교공부/안드로이드 프로그래밍/안드로이드 중간고사/14장 네트워크.md",
+    "학교 공부 노트/3-2학교공부/안드로이드 프로그래밍/안드로이드 중간고사/13장 스레드.md"
+  ]
+}

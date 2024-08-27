@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"e215a99ba869cdff","type":"file","file":"학교 공부 노트/3-2학교공부/IOT 연습장/IOT중간고사/모터드라이브.md","x":-320,"y":-420,"width":400,"height":400},
+		{"id":"5c241f939bd8e6cb","type":"file","file":"학교 공부 노트/3-2학교공부/IOT 연습장/IOT중간고사/라인트레이서.md","x":100,"y":-420,"width":400,"height":400},
+		{"id":"6c02ecf94b17845b","type":"file","file":"학교 공부 노트/3-2학교공부/IOT 연습장/IOT 시험 출제.md","x":-120,"y":-960,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"8f8924940404b8b2","fromNode":"6c02ecf94b17845b","fromSide":"bottom","toNode":"e215a99ba869cdff","toSide":"top"},
+		{"id":"53e3fc4e8e167e9c","fromNode":"6c02ecf94b17845b","fromSide":"bottom","toNode":"5c241f939bd8e6cb","toSide":"top"}
+	]
+}
