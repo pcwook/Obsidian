@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 240.5,
+    "collapsed": true
   },
   "right": {
     "id": "e88abf01ecd6fd51",
@@ -146,7 +147,7 @@
       "canvas:새 캔버스 만들기": false
     }
   },
-  "active": "2559f83968a76da0",
+  "active": "2f0d5e930c137640",
   "lastOpenFiles": [
     "프로젝트 관리 파일/그냥 정리 파일.md",
     "README.md",
