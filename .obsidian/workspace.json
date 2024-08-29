@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로그래밍공부/스프링 정리.md",
+                "file": "프로그래밍공부/스프링 부트3 (자바 백엔드 개발 입문).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍공부/스프링 정리.md",
+                "file": "프로그래밍공부/스프링 부트3 (자바 백엔드 개발 입문).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍공부/스프링 정리.md",
+                "file": "프로그래밍공부/스프링 부트3 (자바 백엔드 개발 입문).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍공부/스프링 정리.md"
+                "file": "프로그래밍공부/스프링 부트3 (자바 백엔드 개발 입문).md"
               }
             }
           }
@@ -149,11 +149,11 @@
   "active": "2559f83968a76da0",
   "lastOpenFiles": [
     "프로그래밍공부/모두의 깃&깃허브.md",
-    "프로그래밍공부/스프링 정리.md",
+    "학교 공부 노트/4-1 공부/정보처리기사/1과목 소프트웨어 설계.md",
+    "프로그래밍공부/스프링 부트3 (자바 백엔드 개발 입문).md",
     "프로젝트 관리 파일/그냥 정리 파일.md",
     "README.md",
     "학교 공부 노트/4-1 공부/정보처리기사/정처기 실기 오답 노트.md",
-    "학교 공부 노트/4-1 공부/정보처리기사/1과목 소프트웨어 설계.md",
     "학교 공부 노트/4-1 공부/정보처리기사/정보처리기사 코딩(흥달쌤).md",
     "옵시디언 사용법.md",
     "캔버스 파일/IOT공부 파일.canvas",
