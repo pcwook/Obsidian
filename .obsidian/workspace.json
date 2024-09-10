@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로그래밍공부/이것이 취업을 위한 백엔드 개발이다.md",
+                "file": "프로그래밍공부/모두의 깃&깃허브.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍공부/이것이 취업을 위한 백엔드 개발이다.md",
+                "file": "프로그래밍공부/모두의 깃&깃허브.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍공부/이것이 취업을 위한 백엔드 개발이다.md",
+                "file": "프로그래밍공부/모두의 깃&깃허브.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍공부/이것이 취업을 위한 백엔드 개발이다.md"
+                "file": "프로그래밍공부/모두의 깃&깃허브.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "2559f83968a76da0",
   "lastOpenFiles": [
-    "프로그래밍공부/스프링 부트3 (자바 백엔드 개발 입문).md",
     "프로그래밍공부/이것이 취업을 위한 백엔드 개발이다.md",
+    "프로그래밍공부/스프링 부트3 (자바 백엔드 개발 입문).md",
     "프로그래밍공부/모두의 깃&깃허브.md",
     "학교 공부 노트/4-1 공부/정보처리기사/1과목 소프트웨어 설계.md",
     "프로젝트 관리 파일/그냥 정리 파일.md",
